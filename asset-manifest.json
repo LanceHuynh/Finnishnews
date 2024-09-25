@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/Finnishnews/static/css/main.1c4e2f3a.chunk.css",
+    "main.js": "/Finnishnews/static/js/main.781e03d2.chunk.js",
+    "main.js.map": "/Finnishnews/static/js/main.781e03d2.chunk.js.map",
+    "runtime-main.js": "/Finnishnews/static/js/runtime-main.e1183d29.js",
+    "runtime-main.js.map": "/Finnishnews/static/js/runtime-main.e1183d29.js.map",
+    "static/js/2.4ce59c87.chunk.js": "/Finnishnews/static/js/2.4ce59c87.chunk.js",
+    "static/js/2.4ce59c87.chunk.js.map": "/Finnishnews/static/js/2.4ce59c87.chunk.js.map",
+    "static/js/3.a206cd86.chunk.js": "/Finnishnews/static/js/3.a206cd86.chunk.js",
+    "static/js/3.a206cd86.chunk.js.map": "/Finnishnews/static/js/3.a206cd86.chunk.js.map",
+    "index.html": "/Finnishnews/index.html",
+    "static/css/main.1c4e2f3a.chunk.css.map": "/Finnishnews/static/css/main.1c4e2f3a.chunk.css.map",
+    "static/js/2.4ce59c87.chunk.js.LICENSE.txt": "/Finnishnews/static/js/2.4ce59c87.chunk.js.LICENSE.txt",
+    "static/media/Veikkaus.jpg.02ba012c.webp": "/Finnishnews/static/media/Veikkaus.jpg.02ba012c.webp",
+    "static/media/corona.jpg.a0e037b4.webp": "/Finnishnews/static/media/corona.jpg.a0e037b4.webp",
+    "static/media/App.css": "/Finnishnews/static/media/hslogo.5f41cbd8.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e1183d29.js",
+    "static/js/2.4ce59c87.chunk.js",
+    "static/css/main.1c4e2f3a.chunk.css",
+    "static/js/main.781e03d2.chunk.js"
+  ]
+}
